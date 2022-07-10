@@ -41,11 +41,13 @@ h2 {
 .units {
   display: inline-block;
   font-size: 30px;
+  margin: 0 auto;
 }
 .today-icon {
   font-size: 60px;
   padding-top: 15px;
   color: #343a40;
+  margin: 0 auto;
 }
 .today-high-label {
   padding-bottom: 20px;
@@ -55,18 +57,7 @@ h2 {
   color: #343a40;
   text-align: center;
 }
-.card {
-  margin: 0 auto;
-  margin-bottom: 25px;
-}
-.week-weather-icon {
-  text-align: center;
-  font-size: 40px;
-}
-.week-weather-day {
-  text-align: center;
-  font-size: 15px;
-}
+
 footer {
   text-align: center;
   margin: 0 auto;
