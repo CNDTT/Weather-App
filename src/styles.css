@@ -1,0 +1,73 @@
+st.container-fluid {
+  font-family: "Cutive Mono", monospace;
+}
+
+.weather-app {
+  border: 1px solid #343a40;
+  margin: 20px auto;
+  border-radius: 15px;
+  max-width: 700px;
+}
+.search-bar {
+  padding: 15px;
+  margin: 0 auto;
+  margin-bottom: 20px;
+  max-width: 600px;
+}
+#search-button {
+  background-color: #343a40;
+  border-color: #343a40;
+}
+
+#city-input:hover {
+  border-color: #343a40;
+}
+
+h1,
+h2 {
+  text-align: center;
+  color: #343a40;
+}
+.today-temp {
+  font-size: 60px;
+  color: #343a40;
+  line-height: 1;
+  margin-left: 40px;
+  padding: 0px;
+}
+#temperature {
+  padding-left: 35px;
+}
+.units {
+  display: inline-block;
+  font-size: 30px;
+}
+.today-icon {
+  font-size: 60px;
+  padding-top: 15px;
+  color: #343a40;
+}
+.today-high-label {
+  padding-bottom: 20px;
+  color: #343a40;
+}
+.today-details {
+  color: #343a40;
+  text-align: center;
+}
+.card {
+  margin: 0 auto;
+  margin-bottom: 25px;
+}
+.week-weather-icon {
+  text-align: center;
+  font-size: 40px;
+}
+.week-weather-day {
+  text-align: center;
+  font-size: 15px;
+}
+footer {
+  text-align: center;
+  margin: 0 auto;
+}
